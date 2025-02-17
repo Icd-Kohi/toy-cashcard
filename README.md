@@ -1,3 +1,3 @@
 # toy-cashcard
-A toy family "CashCard" CRUD
+A toy family "CashCard" CRUD.
 
