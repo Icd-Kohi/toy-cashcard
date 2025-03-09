@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CashCardApplication {
     public static void main(String[] args) {
         CashCardApplication app = new CashCardApplication();
+
         SpringApplication.run(app.getClass(), args);
     }
 }
